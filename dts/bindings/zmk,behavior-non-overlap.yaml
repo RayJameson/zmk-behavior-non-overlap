@@ -19,3 +19,6 @@ properties:
     description: |
       If set, no key will be resumed and the property `resume-capacity` is
       ignored. This is the same as `resume-capacity` being set to `<0>`.
+  display-name:
+    type: string
+    description: Display name
